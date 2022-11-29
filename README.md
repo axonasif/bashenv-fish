@@ -13,3 +13,5 @@ Install with [Fisher](https://github.com/jorgebucaran/fisher):
 ```console
 fisher install axonasif/bashenv.fish
 ```
+
+Note: This is auto installed with [dotsh](https://github.com/axonasif/dotsh)
